@@ -1,6 +1,6 @@
 # ToDo App
 
-ToDo List Android application built with Jetpack Compose. This app allows users to create, manage, and organize their tasks efficiently with a clean and intuitive user interface.
+ToDo List Android application built with Jetpack Compose. This app allows users to create, manage, and organize their tasks.
 
 ## Features
 
@@ -22,10 +22,6 @@ This application implents:
 -   **⚙️ Application Settings**:
     -   Customize the notification lead time
 -   **🔗 Deep Linking**: Tapping a notification directly opens the corresponding task details within the app
-
-## 📸 Screenshots
-
-Here is a preview of the application's user interface.
 
 ## 📸 Screenshots
 
@@ -57,6 +53,3 @@ Here is a preview of the application's user interface.
     </td>
   </tr>
 </table>
-
-
-    
